@@ -1,0 +1,20 @@
+@import url("../../common/colors.sass");
+
+.header {
+  background-color: #1a242f;
+  height: 62px;
+  padding: 0 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.user-image img, .user-image {
+  height: 38px;
+}
+
+.logo{
+    font-size: 26px;
+    color: #ffffff;
+    font-weight: 600;
+}

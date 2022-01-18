@@ -1,0 +1,20 @@
+.container-detail{
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.left-detail{
+    padding-right: 20px;
+}
+.detail-rateting{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.detail-plot{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
